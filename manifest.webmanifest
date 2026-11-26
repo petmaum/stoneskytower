@@ -1,0 +1,19 @@
+{
+  "name": "예쁘게 하늘 탑 쌓기",
+  "short_name": "하늘 탑",
+  "description": "블록을 타이밍 맞춰 쌓아 하늘 끝까지! 한 손으로 즐기는 탑 쌓기 게임",
+  "lang": "ko",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eaf6ff",
+  "theme_color": "#5d9cf5",
+  "categories": ["games"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
